@@ -16,26 +16,27 @@
 ## 3) 股东回报（近5年）
 - 政策：历史上偏再投资，盈利修复后开始提升股东回报。
 
-| 年度 | 分红/回购要点 |
-|---|---|
-| 2021 | 以再投资为主 |
-| 2022 | 以再投资为主 |
-| 2023 | 盈利修复前期 |
-| 2024 | 首次派息（每股 0.4 港元） |
-| 2025 | 继续观察分红与资本配置平衡 |
+| FY | Dividend (HKD/share) | Buyback | Dividend yield | Buyback yield | Total shareholder yield | Dividend/FCF | Buyback/FCF |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| 2021 | 0 | N/A | 0% | N/A | N/A | N/A | N/A |
+| 2022 | 0 | N/A | 0% | N/A | N/A | N/A | N/A |
+| 2023 | 0 | N/A | 0% | N/A | N/A | N/A | N/A |
+| 2024 | 0.4 | N/A | Not disclosed | N/A | N/A | Not disclosed | N/A |
+| 2025 | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 
 ```mermaid
 xychart-beta
-  title "心动公司盈利修复（近似，RMB mn）"
+  title "心动公司盈利修复（RMB mn，近似）"
   x-axis [2022, 2023, 2024, 2025H1]
   y-axis "RMB mn" -600 --> 1000
-  bar [-568, -5, 915, 861]
+  bar [-567.9, -5.2, 914.8, 861.4]
 ```
 
 ## 4) 近5年关键财务数据（含增长）
 | 指标 | 2022 | 2023 | 2024 | 2025H1 | 说明 |
 |---|---:|---:|---:|---:|---|
-| Operating profit (RMB mn) | -567.9 | -5.2 | 914.8 | 861.4 | 明显修复 |
+| Revenue (RMB bn) | 3.4 | 3.4 | 5.0 | 3.1 | 2024 起明显加速 |
+| Operating profit (RMB mn) | -567.9 | -5.2 | 914.8 | 861.4 | 盈利修复明显 |
 | ROIC（近似） | 负值 | 接近0 | 显著转正 | 延续提升 | 仍需跨周期验证 |
 
 ```mermaid
@@ -64,12 +65,12 @@ xychart-beta
 说明：港股对部分机构持仓披露颗粒度有限，需以 HKEX/公司权益披露为准。
 
 ## 8) 四位大佬视角
-| Lens | Holds this stock | Latest action | Source date | Style anchors | Fit | Mismatch | Key watch items | Likely action triggers | Lens verdict |
-|---|---|---|---|---|---|---|---|---|---|
-| Chris Hohn | Not publicly disclosed | Not disclosed | N/A | 资本效率、治理、现金流质量 | 若再投资回报持续提升则匹配 | 现金流稳定性弱于其常见偏好 | ROIC 稳定性、平台商业化、资本分配 | 回报验证且治理改进时加仓 | Partial fit |
-| Bill Ackman | No known disclosure | Not disclosed | N/A | 集中持仓、可见催化 | 业务转折具备催化叙事 | 市值/流动性与波动特征可能不匹配 | 盈利质量、催化可验证性 | 出现清晰催化与低估才可能进入 | Weak fit |
-| Conor Leonard | Not publicly disclosed | Not disclosed | N/A | ROIC、增量ROIC、再投资跑道 | 与其框架高度相关 | 仍在回报验证期 | Incremental ROIC、新品回收期、边际利润 | 连续验证高增量回报时加仓 | Partial fit |
-| Terry Smith | Not publicly disclosed | Not disclosed | N/A | 高质量、稳定复利 | 平台化成熟后可能匹配 | 行业波动性高、可预测性弱 | 毛利率稳定性、现金流波动、留存 | 业务稳定性显著提升时才会加仓 | Weak fit |
+| Lens | Holds / Position % | Latest action + source date | Style anchors | Fit | Mismatch | Key watch items | Likely action triggers | Lens verdict |
+|---|---|---|---|---|---|---|---|---|
+| Chris Hohn | Not publicly disclosed | Not disclosed, N/A | 资本效率、治理、现金流质量 | 若再投资回报持续提升则匹配 | 现金流稳定性弱于其常见偏好 | ROIC 稳定性、平台商业化、资本分配 | 回报验证且治理改进时加仓 | Partial fit |
+| Bill Ackman | No known public holding | Not disclosed, N/A | 集中持仓、可见催化 | 业务转折具备催化叙事 | 市值/流动性与波动特征可能不匹配 | 盈利质量、催化可验证性 | 出现清晰催化与低估才可能进入 | Weak fit |
+| Conor Leonard | Not publicly disclosed | Not disclosed, N/A | ROIC、增量ROIC、再投资跑道 | 与其框架高度相关 | 仍在回报验证期 | Incremental ROIC、新品回收期、边际利润 | 连续验证高增量回报时加仓 | Partial fit |
+| Terry Smith | Not publicly disclosed | Not disclosed, N/A | 高质量、稳定复利 | 平台化成熟后可能匹配 | 行业波动性高、可预测性弱 | 毛利率稳定性、现金流波动、留存 | 业务稳定性显著提升时才会加仓 | Weak fit |
 
 ## 9) 做空方视角（Bear Case）
 - 可做空理由：新品不及预期、流量成本上行、平台商业化不达预期、估值前置过高。

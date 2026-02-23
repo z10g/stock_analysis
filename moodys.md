@@ -16,13 +16,13 @@
 ## 3) 股东回报（近5年）
 - 政策：持续分红与回购，强调每股价值增长。
 
-| 年度 | 分红 (USD bn) | 回购 (USD bn) |
-|---|---:|---:|
-| 2021 | 0.54 | 1.80 |
-| 2022 | 0.61 | 2.05 |
-| 2023 | 0.69 | 1.38 |
-| 2024 | 0.80 | 1.30 |
-| 2025 | 0.91 | 1.30 |
+| FY | Dividend (USD bn) | Buyback (USD bn) | Dividend yield | Buyback yield | Total shareholder yield | Dividend/FCF | Buyback/FCF |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| 2021 | 0.54 | 1.80 | 0.15% | 0.50% | 0.65% | 26% | 88% |
+| 2022 | 0.61 | 2.05 | 0.20% | 0.67% | 0.87% | 28% | 95% |
+| 2023 | 0.69 | 1.38 | 0.18% | 0.37% | 0.55% | 30% | 60% |
+| 2024 | 0.80 | 1.30 | 0.18% | 0.29% | 0.47% | 32% | 52% |
+| 2025 | 0.91 | 1.30 | 0.17% | 0.24% | 0.41% | 35% | 50% |
 
 ```mermaid
 xychart-beta
@@ -67,12 +67,12 @@ xychart-beta
 | TCI Fund Management | Yes | Not disclosed | 最近 13F 周期 |
 
 ## 8) 四位大佬视角
-| Lens | Holds this stock | Latest action | Source date | Style anchors | Fit | Mismatch | Key watch items | Likely action triggers | Lens verdict |
-|---|---|---|---|---|---|---|---|---|---|
-| Chris Hohn | Yes | Held | 最近 13F 周期 | 现金流质量、资本效率、治理 | 资本轻型+高现金流匹配 | 评级周期波动 | 发行量、MA 增速、FCF 转化 | 周期回落+估值合理时加仓 | Strong fit |
-| Bill Ackman | No | Not holding | 最近 13F 周期 | 集中持仓、催化、确定性 | 质量匹配 | 事件催化相对弱 | 估值、监管变化、增长斜率 | 低估且催化清晰时才可能进入 | Partial fit |
-| Conor Leonard | Not publicly disclosed | Not disclosed | N/A | ROIC、增量回报、再投资 | 资本轻型复利特征明显 | 周期扰动短期回报判断 | Incremental ROIC、续约率、利润率 | 回报中枢上移时加仓 | Strong fit |
-| Terry Smith | Yes | Held | 最近 factsheet 周期 | 高质量、长期复利 | 质量与回报特征高度匹配 | 估值高位压缩未来回报 | 有机增长、ROIC、估值 | 估值回落且质量不变时加仓 | Strong fit |
+| Lens | Holds / Position % | Latest action + source date | Style anchors | Fit | Mismatch | Key watch items | Likely action triggers | Lens verdict |
+|---|---|---|---|---|---|---|---|---|
+| Chris Hohn | Yes (position % not disclosed in current source snapshot) | Held, latest 13F cycle | 现金流质量、资本效率、治理 | 资本轻型+高现金流匹配 | 评级周期波动 | 发行量、MA 增速、FCF 转化 | 周期回落+估值合理时加仓 | Strong fit |
+| Bill Ackman | No | Not holding, latest 13F cycle | 集中持仓、催化、确定性 | 质量匹配 | 事件催化相对弱 | 估值、监管变化、增长斜率 | 低估且催化清晰时才可能进入 | Partial fit |
+| Conor Leonard | Not publicly disclosed | Not disclosed, N/A | ROIC、增量回报、再投资 | 资本轻型复利特征明显 | 周期扰动短期判断 | Incremental ROIC、续约率、利润率 | 回报中枢上移时加仓 | Strong fit |
+| Terry Smith | Yes (position % not disclosed in current source snapshot) | Held, latest factsheet cycle | 高质量、长期复利 | 质量与回报特征高度匹配 | 估值高位压缩未来回报 | 有机增长、ROIC、估值 | 估值回落且质量不变时加仓 | Strong fit |
 
 ## 9) 做空方视角（Bear Case）
 - 可做空理由：评级周期下行、估值偏高、监管压力。

@@ -16,13 +16,13 @@
 ## 3) 股东回报（近5年）
 - 政策：稳定分红 + 回购，同时保证增长性 Capex。
 
-| FY | 分红 (USD bn) | 回购 (USD bn) | 分红/FCF | 回购/FCF |
-|---|---:|---:|---:|---:|
-| 2021 | 16.9 | 21.9 | 30.1% | 39.0% |
-| 2022 | 18.6 | 27.0 | 28.5% | 41.4% |
-| 2023 | 20.2 | 17.6 | 34.0% | 29.5% |
-| 2024 | 22.3 | 11.5 | 30.1% | 15.6% |
-| 2025 | 24.7 | 12.6 | 34.5% | 17.6% |
+| FY | Dividend (USD bn) | Buyback (USD bn) | Dividend yield | Buyback yield | Total shareholder yield | Dividend/FCF | Buyback/FCF |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| 2021 | 16.9 | 21.9 | 0.67% | 0.87% | 1.54% | 30.1% | 39.0% |
+| 2022 | 18.6 | 27.0 | 1.04% | 1.51% | 2.55% | 28.5% | 41.4% |
+| 2023 | 20.2 | 17.6 | 0.72% | 0.63% | 1.35% | 34.0% | 29.5% |
+| 2024 | 22.3 | 11.5 | 0.70% | 0.36% | 1.06% | 30.1% | 15.6% |
+| 2025 | 24.7 | 12.6 | 0.68% | 0.35% | 1.03% | 34.5% | 17.6% |
 
 ```mermaid
 xychart-beta
@@ -70,12 +70,12 @@ xychart-beta
 | Fisher Asset Management | Yes | 持有（摘要未给明确增减） | 2026-02-09 |
 
 ## 8) 四位大佬视角
-| Lens | Holds this stock | Latest action | Source date | Style anchors | Fit | Mismatch | Key watch items | Likely action triggers | Lens verdict |
-|---|---|---|---|---|---|---|---|---|---|
-| Chris Hohn | Yes | Unchanged/held | 2026-02-17 | 现金流质量、资本效率、治理 | 高质量现金流与资本分配纪律匹配 | 超大盘事件催化较弱 | Azure 增速、AI ROIC、Capex/FCF | 回报持续高且估值回落时加仓 | Strong fit |
-| Bill Ackman | No | Not holding | 2025-11-14 | 集中持仓、催化、确定性 | 业务质量符合 | 当前组合未配置，催化属性偏弱 | 估值回落、监管事件、增长弹性 | 出现明显错杀与催化时可能进入 | Partial fit |
-| Conor Leonard | Not publicly disclosed | Not disclosed | N/A | ROIC、增量ROIC、再投资跑道 | 长期再投资能力强 | AI 重投入期需验证增量回报 | Incremental ROIC、边际利润、FCF转化 | 增量回报连续验证时加仓 | Strong fit |
-| Terry Smith | Yes | Held | 2026-01 | 高质量、长期复利、高回报 | 护城河与盈利质量高度匹配 | 估值与回报兑现节奏风险 | 毛利率、ROIC、有机增长 | 估值回落且质量不变时加仓 | Strong fit |
+| Lens | Holds / Position % | Latest action + source date | Style anchors | Fit | Mismatch | Key watch items | Likely action triggers | Lens verdict |
+|---|---|---|---|---|---|---|---|---|
+| Chris Hohn | Yes (position % not disclosed in current source snapshot) | Held, 2026-02-17 (Q4 2025 13F cycle) | 现金流质量、资本效率、治理 | 高质量现金流与资本分配纪律匹配 | 超大盘事件催化较弱 | Azure 增速、AI ROIC、Capex/FCF | 回报持续高且估值回落时加仓 | Strong fit |
+| Bill Ackman | No | Not holding, 2025-11-14 (Q3 2025 13F) | 集中持仓、催化、确定性 | 业务质量符合 | 当前组合未配置，催化属性偏弱 | 估值回落、监管事件、增长弹性 | 出现明显错杀与催化时可能进入 | Partial fit |
+| Conor Leonard | Not publicly disclosed | Not disclosed, N/A | ROIC、增量ROIC、再投资跑道 | 长期再投资能力强 | AI 重投入期需验证增量回报 | Incremental ROIC、边际利润、FCF转化 | 增量回报连续验证时加仓 | Strong fit |
+| Terry Smith | Yes (position % not disclosed in monthly factsheet) | Held, 2026-01 (Fundsmith monthly commentary) | 高质量、长期复利、高回报 | 护城河与盈利质量高度匹配 | 估值与回报兑现节奏风险 | 毛利率、ROIC、有机增长 | 估值回落且质量不变时加仓 | Strong fit |
 
 ## 9) 做空方视角（Bear Case）
 - 可做空理由：AI Capex 高位若回报不及预期；云竞争压利润率；增速下修引发估值压缩。
