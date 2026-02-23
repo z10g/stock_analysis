@@ -1,0 +1,39 @@
+# 心动公司（02400.HK）- Connor 框架分析
+
+## 1. Connor 分类结论
+- Primary type: Reinvestment Moat Businesses
+- Optional transition: 暂不判为 Capital-Light Compounders
+- 理由:
+- 2024 年收入 RMB 5,012.1m，同比显著增长；经营利润从 2023 年 -5.2m 转为 2024 年 914.8m。
+- 2025H1 收入 RMB 3,082.0m，同比 +38.8%；经营利润 861.4m，同比大增。
+- 管理层明确继续投入《心动小镇》《火炬之光：无限》及 TapTap 算法/分发能力，呈现“高回报再投资”特征。
+
+## 2. ROIC / 增量回报（同一近似口径）
+- 近似口径: NOPAT / (Total equity + lease liabilities)
+- 2024:
+- Operating profit = 914.8m
+- Total equity = 2,714.6m
+- Lease liabilities = 159.2m
+- 2023 对比:
+- Operating profit = -5.2m
+- Total equity = 1,868.8m
+- Lease liabilities = 203.3m
+- 结论: 2023→2024 的“增量回报”非常强，但带有明显“亏转盈/周期修复”成分，需继续跟踪 2025 全年和 2026。
+
+## 3. 为什么不是 Legacy Moat / Capital-Light
+- 不是 Legacy Moat: 公司仍在持续加大产品与平台投入，不是“高回报但缺再投资跑道”的成熟分红型。
+- 暂不是 Capital-Light Compounder: 游戏研发和内容生命周期管理仍需要持续资本与费用投入，资本轻量化程度不够稳定。
+
+## 4. 关键跟踪点（按 Connor 框架）
+1. Incremental ROIC 是否在 2025 全年仍维持高位。
+2. 新品与老产品组合下，是否能持续把新增投入转化为高质量利润。
+3. TapTap 的商业化效率提升是否可跨周期延续。
+
+## 5. 一句话结论
+心动目前最贴近 Reinvestment Moat Businesses，但仍处在“高回报再投资是否可持续”的验证段。
+
+## 6. 来源
+- Connor 信件: https://sabercapitalmgt.com/wp-content/uploads/2018/04/IMC-2017-Annual-Letter.pdf
+- 心动 IR 财报列表: https://2400.hk/en/financial-report
+- 2024 年报 PDF: https://img.xdcdn.net/xdwp/2025/04/20250429092036188.pdf
+- 2025 中报 PDF: https://img.xdcdn.net/xdwp/2025/09/20250929143510717.pdf
