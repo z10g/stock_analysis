@@ -15,22 +15,46 @@
 
 ## 3) 股东回报（近5年）
 - 政策：稳定分红 + 回购，同时保证增长性 Capex。
-- 5年分红：USD 102.6B。
-- 5年回购：USD 90.5B。
-- 2021-2025 股东回报率（对当年市值）约 1.03%-2.55%。
+
+| FY | 分红 (USD bn) | 回购 (USD bn) | 分红/FCF | 回购/FCF |
+|---|---:|---:|---:|---:|
+| 2021 | 16.9 | 21.9 | 30.1% | 39.0% |
+| 2022 | 18.6 | 27.0 | 28.5% | 41.4% |
+| 2023 | 20.2 | 17.6 | 34.0% | 29.5% |
+| 2024 | 22.3 | 11.5 | 30.1% | 15.6% |
+| 2025 | 24.7 | 12.6 | 34.5% | 17.6% |
+
+```mermaid
+xychart-beta
+  title "MSFT 分红与回购（USD bn）"
+  x-axis [2021, 2022, 2023, 2024, 2025]
+  y-axis "USD bn" 0 --> 30
+  bar [16.9, 18.6, 20.2, 22.3, 24.7]
+  bar [21.9, 27.0, 17.6, 11.5, 12.6]
+```
 
 ## 4) 近5年关键财务数据（含增长）
-- Revenue：168.1B -> 281.7B（+67.6%，CAGR 13.8%）
-- Operating income：69.9B -> 128.5B（+83.8%，CAGR 16.4%）
-- Net income：61.3B -> 101.8B（+66.2%，CAGR 13.5%）
-- EPS：8.05 -> 13.64（+69.4%，CAGR 14.1%）
-- FCF：56.1B -> 71.6B（+27.6%，CAGR 6.3%）
+| 指标 | 2021 | 2025 | 增长 | CAGR |
+|---|---:|---:|---:|---:|
+| Revenue (USD bn) | 168.1 | 281.7 | +67.6% | 13.8% |
+| Operating income (USD bn) | 69.9 | 128.5 | +83.8% | 16.4% |
+| Net income (USD bn) | 61.3 | 101.8 | +66.2% | 13.5% |
+| EPS (USD) | 8.05 | 13.64 | +69.4% | 14.1% |
+| FCF (USD bn) | 56.1 | 71.6 | +27.6% | 6.3% |
+
+```mermaid
+xychart-beta
+  title "MSFT 营收与营业利润（USD bn）"
+  x-axis [2021, 2022, 2023, 2024, 2025]
+  y-axis "USD bn" 0 --> 300
+  bar [168.1, 198.3, 211.9, 245.1, 281.7]
+  line [69.9, 83.4, 88.5, 109.4, 128.5]
+```
 
 ## 5) 估值与历史分位
 - 适用指标：P/E + EV/FCF。
 - TTM P/E：约 24.8x；Forward P/E：约 28.0x。
 - 历史分位（P/E 序列近似）：5年约 0%，10年约 20%。
-- 解读：估值不在历史极端高位，回报更依赖盈利兑现。
 
 ## 6) 未来1-3年增长预测（基础情景）
 - Revenue CAGR：11%-14%
@@ -39,70 +63,19 @@
 - 核心变量：Azure 增速、Copilot 商业化、Capex 强度与 FCF 回收。
 
 ## 7) 持有该股票的机构（排除被动）
-- TCI Fund Management：Holds = Yes；最近操作 = 增持（公开摘要显示）；披露日期 = 2025-05-15。
-- Bridgewater Associates：Holds = Yes；最近操作 = 增持（公开摘要显示）；披露日期 = 2025-05-14。
-- Fisher Asset Management：Holds = Yes；最近操作 = 持有（公开摘要未给出明确增减比例）；披露日期 = 2026-02-09。
+| 机构 | Holds this stock | 最近操作 | 披露日期 |
+|---|---|---|---|
+| TCI Fund Management | Yes | 增持（公开摘要） | 2025-05-15 |
+| Bridgewater Associates | Yes | 增持（公开摘要） | 2025-05-14 |
+| Fisher Asset Management | Yes | 持有（摘要未给明确增减） | 2026-02-09 |
 
-## 8) 四位大佬视角（详细）
-### Chris Hohn
-- Holds this stock: Yes
-- Latest action: 持有（近年公开持仓中为重要仓位）
-- Source filing or letter date: 2026-02-17（Q4 2025 13F）
-- Style anchors：高质量现金流、资本配置纪律、可量化价值提升。
-- Fit：
-- 企业软件+云平台具备高确定性现金流。
-- 资本回报与分红回购框架成熟。
-- Mismatch：
-- 超大盘治理改造空间小，事件型催化较弱。
-- Key watch items：Azure 增速、AI 相关 ROIC、Capex/FCF、利润率韧性。
-- Likely action triggers：
-- Add：增量回报持续高且估值回落。
-- Trim/Exit：AI 投入回报持续不达标或估值显著透支。
-- Lens verdict：Strong fit
-
-### Bill Ackman
-- Holds this stock: No
-- Latest action: 未持有（最近披露组合未见 MSFT）
-- Source filing or letter date: 2025-11-14（Q3 2025 13F）
-- Style anchors：高质量、可解释催化、集中持仓。
-- Fit：
-- 业务质量和现金流强。
-- Mismatch：
-- 当前组合并未配置，且微软缺少强事件型催化。
-- Key watch items：估值回落幅度、AI 商业化斜率、监管事件。
-- Likely action triggers：
-- Add：出现明显错杀或催化明确。
-- Lens verdict：Partial fit
-
-### Conor Leonard
-- Holds this stock: Not publicly disclosed
-- Latest action: Not disclosed
-- Source filing or letter date: N/A
-- Style anchors：ROIC、Incremental ROIC、再投资跑道。
-- Fit：
-- 微软具备长期再投资能力与高质量商业模式。
-- Mismatch：
-- AI 重投入周期下，增量资本回报需持续验证。
-- Key watch items：Incremental ROIC、云业务边际利润、FCF 转化。
-- Likely action triggers：
-- Add：增量 ROIC 连续验证为高。
-- Trim：资本强度上升但回报下降。
-- Lens verdict：Strong fit
-
-### Terry Smith
-- Holds this stock: Yes
-- Latest action: 持有（公开月报提及微软对组合表现有影响）
-- Source filing or letter date: 2026-01（月度评论）
-- Style anchors：高质量、持续高回报、长期复利。
-- Fit：
-- 护城河深、盈利质量高、长期竞争地位稳固。
-- Mismatch：
-- 估值与 AI 投入期回报兑现节奏存在不确定。
-- Key watch items：毛利率、ROIC、有机增长、资本分配纪律。
-- Likely action triggers：
-- Add：估值更有吸引力且增长韧性延续。
-- Trim：质量未变但估值显著透支。
-- Lens verdict：Strong fit
+## 8) 四位大佬视角
+| Lens | Holds this stock | Latest action | Source date | Style anchors | Fit | Mismatch | Key watch items | Likely action triggers | Lens verdict |
+|---|---|---|---|---|---|---|---|---|---|
+| Chris Hohn | Yes | Unchanged/held | 2026-02-17 | 现金流质量、资本效率、治理 | 高质量现金流与资本分配纪律匹配 | 超大盘事件催化较弱 | Azure 增速、AI ROIC、Capex/FCF | 回报持续高且估值回落时加仓 | Strong fit |
+| Bill Ackman | No | Not holding | 2025-11-14 | 集中持仓、催化、确定性 | 业务质量符合 | 当前组合未配置，催化属性偏弱 | 估值回落、监管事件、增长弹性 | 出现明显错杀与催化时可能进入 | Partial fit |
+| Conor Leonard | Not publicly disclosed | Not disclosed | N/A | ROIC、增量ROIC、再投资跑道 | 长期再投资能力强 | AI 重投入期需验证增量回报 | Incremental ROIC、边际利润、FCF转化 | 增量回报连续验证时加仓 | Strong fit |
+| Terry Smith | Yes | Held | 2026-01 | 高质量、长期复利、高回报 | 护城河与盈利质量高度匹配 | 估值与回报兑现节奏风险 | 毛利率、ROIC、有机增长 | 估值回落且质量不变时加仓 | Strong fit |
 
 ## 9) 做空方视角（Bear Case）
 - 可做空理由：AI Capex 高位若回报不及预期；云竞争压利润率；增速下修引发估值压缩。
